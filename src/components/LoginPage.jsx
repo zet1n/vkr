@@ -56,7 +56,6 @@ const LoginPage = () => {
                 </form>
                 <p>Нет аккаунта? Зарегистрируйся <Link to="/register">здесь</Link></p>
             </div>
-            LOGIN
         </div>
     )
 }
